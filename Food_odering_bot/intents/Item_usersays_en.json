@@ -1,0 +1,197 @@
+[
+  {
+    "id": "03f89ddb-53c5-4f4b-b471-a478ba06f8dc",
+    "data": [
+      {
+        "text": "Drinks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3fc0e0c1-4b0b-40a6-b485-eb63c53bacd8",
+    "data": [
+      {
+        "text": "Coffee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "481d7eb1-930e-473c-9d31-673cd9c39e7d",
+    "data": [
+      {
+        "text": "Soft drinks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2ead90e-2bf7-46be-a25b-42b608b1cd67",
+    "data": [
+      {
+        "text": "Juice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b2e940c-9479-46c8-9be8-d002aeecacec",
+    "data": [
+      {
+        "text": "Milk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f88addd-4e47-40cd-a3bf-011f67c726c2",
+    "data": [
+      {
+        "text": "Pancakes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0cea2d3-3063-4ee6-91ad-592ae6469528",
+    "data": [
+      {
+        "text": "Burgers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ccf0e2b-0889-4dee-bf54-4729b603c91f",
+    "data": [
+      {
+        "text": "Pizza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f94ccf2-659d-4639-bc96-e1e75eefe41e",
+    "data": [
+      {
+        "text": "Biriyani",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49a3c5ce-8230-4e92-a908-b6fe0e955574",
+    "data": [
+      {
+        "text": "Stuffed mushrooms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0589b26a-c3a3-4ab9-8f99-b3f584ce7f8f",
+    "data": [
+      {
+        "text": "Donuts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3af2f99-c938-4bd0-b97e-3452906f22a4",
+    "data": [
+      {
+        "text": "Jelly",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c98ea870-a2a7-4ca7-a734-fcbc508e1d12",
+    "data": [
+      {
+        "text": "Candy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1bf70968-9d13-4de9-8178-ebb089f949ad",
+    "data": [
+      {
+        "text": "Cakes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd6dd4d9-479a-4a35-bf7b-6629d87629e5",
+    "data": [
+      {
+        "text": "Ice creams",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

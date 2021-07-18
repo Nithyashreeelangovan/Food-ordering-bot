@@ -1,0 +1,42 @@
+{
+  "id": "cec29700-94e0-4ed4-8f8a-a86750d5f65b",
+  "name": "Main course",
+  "auto": true,
+  "contexts": [
+    "await_choice"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "await_choice",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "These are the main courses available : ✭ Stuffed Mushrooms 🍄 , ✭ Biriyani 🍲, ✭ Pizza 🍕, ✭ Burgers 🍔 , ✭  Pancakes 🥞"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
